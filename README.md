@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Vishal Sharma</h1>
 <h3 align="left">I'm exploring and learing technologies to become a MERN Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **Feedbook**
+<!-- - 🔭 I’m currently working on **Feedbook** -->
 
 - 🌱 I’m currently learning **React**
 
