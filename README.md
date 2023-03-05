@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Vishal Sharma</h1>
-<h3 align="left">On a path to become a MERN Stack Web Developer</h3>
+<h3 align="left">Software Engineer at Juspay Technology Private Limited</h3>
 
 <!-- - 🔭 I’m currently working on **Feedbook** -->
 
